@@ -1,5 +1,31 @@
+# ===========================================
+# Directorries to be ignored
+# ===========================================
+build/
+target/
+eclipse/
+documentatie/
+bin/
+tmp/
+.mvn/
+.metadata/
+.settings/
+
+# ===========================================
+# File extensions to be ignored
+# ===========================================
 .gradle
-/build/
+*.class
+*.project
+*.settings
+*.classpath
+*.idea
+*.iml
+*.jar
+*.war
+*.log
+*.bak
+
 
 # Ignore Gradle GUI config
 gradle-app.setting
