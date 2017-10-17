@@ -1,19 +1,21 @@
 # MinecraftModTest1
 
-## Setup for new mod
+## Setup for new Minecraft Mod
  - Clone this repository
- - in new directory:
+ - In new directory:
    - git bash window: git checkout setup
    - cmd window: gradlew setupDecompWorkspace
    - cmd window: gradlew eclipse
+ - Start Eclipse (I use Neon)
+ - Import new Minecraft Mod project
 
 ## Following steps from instruction videos
 
- - https://www.youtube.com/watch?v=cGcFDtcifQQ
+ - Video 1: https://www.youtube.com/watch?v=cGcFDtcifQQ
 
- - https://www.youtube.com/watch?v=7t2X0lI0wXc
+ - Video 2: https://www.youtube.com/watch?v=7t2X0lI0wXc
 
- - https://www.youtube.com/watch?v=EU-In7atQeo
+ - Video 3: https://www.youtube.com/watch?v=EU-In7atQeo
 
 ## Additional resources
 
