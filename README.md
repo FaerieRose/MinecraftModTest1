@@ -1,5 +1,11 @@
 # MinecraftModTest1
 
+## Setup for new mod
+ - Clone branch setup
+ - in new directory, cmd window: 
+   - gradlew setupDecompWorkspace
+   - gradlew eclipse
+
 ## Following steps from instruction videos
 
  - https://www.youtube.com/watch?v=cGcFDtcifQQ
