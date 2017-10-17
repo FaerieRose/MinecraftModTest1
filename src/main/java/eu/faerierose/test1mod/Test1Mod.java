@@ -19,6 +19,7 @@ public class Test1Mod {
     public void preInit(FMLPreInitializationEvent e) {
     	System.out.println("Called method: preInit");
     	ModItems.init();
+    	ModBlocks.init();
     }
         
     @EventHandler
